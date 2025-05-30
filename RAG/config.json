@@ -1,0 +1,11 @@
+{
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "lm_studio": {
+      "base_url": "http://192.168.220.1:3000/v1/",
+      "api_key": "lm-studio"
+    },
+    "model_identifier": "dorna2-llama3.1-8b-instruct",
+    "top_k": 5,
+    "system_template": "شما یک دستیار هوشمند فارسی هستید. با استفاده از اطلاعات داده شده به سوالات کاربر پاسخ دقیق و مفصل بدهید.",
+    "retrieval_method": ""
+  }
